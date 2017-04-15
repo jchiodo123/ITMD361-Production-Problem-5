@@ -1,7 +1,6 @@
 # ITMD361-Production-Problem-5
-Basic JavaScript Event Handling and DOM
 
-ITMD361 Production Problem 5: Basic JavaScript Event Handling and DOM
+Basic JavaScript Event Handling and DOM
 
 Objective:
 Use the provided HTML file and add a basic event handler to the page so that when
